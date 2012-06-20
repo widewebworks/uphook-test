@@ -1,4 +1,3 @@
-
 /**
  * Module dependencies.
  */
@@ -21,7 +20,6 @@ module.exports = app;
  * Sample route.
  */
 
-app.get('/', function (req, res) {
-  res.send('OMGHI2U2_1');
+app.get('/', function(req, res) {
+	res.send('OMGHI2U2_2');
 });
-

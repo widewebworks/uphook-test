@@ -2,7 +2,8 @@
     "name": "sample-up-hook"
   , "version": "0.1.0"
   , "dependencies": {
-        "up": "0.1.x"
-      , "express": "2.5.x"
+      "up": "0.1.x",
+      "up-hook" : "*",
+      "express": "2.5.x"
     }
 }

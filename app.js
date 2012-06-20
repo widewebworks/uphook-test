@@ -22,5 +22,5 @@ module.exports = app;
  */
 
 app.get('/', function (req, res) {
-  res.send('Hi!');
+  res.send('Bye!');
 });

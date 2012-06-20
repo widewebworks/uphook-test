@@ -21,5 +21,5 @@ module.exports = app;
  */
 
 app.get('/', function(req, res) {
-	res.send('OMGHI2U2_11');
+	res.send('OMGHI2U2_12');
 });

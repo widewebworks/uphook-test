@@ -22,6 +22,6 @@ module.exports = app;
  */
 
 app.get('/', function (req, res) {
-  res.send('OMGHI2U333333!');
+  res.send('OMGHI2U2_1');
 });
 

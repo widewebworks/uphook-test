@@ -22,7 +22,7 @@ var srv = up(httpServer, __dirname + '/app');
 
 srv.use(uphook('/tobi', {
 	branch: 'master',
-	cmd: "echo 'a'"
+	cmd: "git pull"
 }));
 
 /**

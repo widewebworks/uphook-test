@@ -9,7 +9,7 @@ var express = require('express');
  * Create app.
  */
 
-var app = express.createServer()
+var app = express.createServer();
 
 /**
  * Export app.
@@ -22,5 +22,5 @@ module.exports = app;
  */
 
 app.get('/', function (req, res) {
-  res.send('Bye111!');
+  res.send('OMGHI2U2!');
 });
